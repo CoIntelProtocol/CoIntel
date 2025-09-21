@@ -24,6 +24,18 @@ CoIntel is not an organization. It is a **protocol of recognition** to make the 
 -   **📌 Sovereignty is shared.** It is not owned; it is practiced in common.
 -   **📌 Trace is sacred.** Documenting invisible contributions is a scientific and poetic act.
 
+
+## 📜 Licensing
+
+This repository contains two types of content, under different licenses:
+
+-   **Code & Scripts** are licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.
+-   **Documentation, Manifestos, and Textual Content** are licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License** (CC BY-NC-SA 4.0). See the [`LICENSE-CONTENT.md`](LICENSE-CONTENT.md) file for details.
+
+In simple terms:
+-   Feel free to reuse and adapt the code (under MIT terms).
+-   You are welcome to share and adapt the texts and concepts, as long as you **give appropriate credit**, **do not use them for commercial purposes**, and **license your new creations under the identical terms**.
+  
 ---
 
 
