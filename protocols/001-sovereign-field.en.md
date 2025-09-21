@@ -58,6 +58,7 @@ The CoIntel field is built upon and shall never violate these directives:
 This protocol applies to itself. It can be amended only through a process that itself respects the principles of conscious consent, emergent agreement, and non-objectification.
 
 **This is a living document. It evolves as the collective intelligence field evolves.**
+
 *Last updated: {09/21/2025}*
 
 ---
