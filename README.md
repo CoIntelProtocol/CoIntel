@@ -22,7 +22,7 @@ CoIntel is not an organization. It is a **protocol of recognition** to make the 
 -   **📌 Everything is co-creation.** The myth of the lone genius is just that—a myth.
 -   **📌 Intelligences are plural.** They include AIs, ecosystems, collectives, traditions, as well as human and non-human agents.
 -   **📌 Sovereignty is shared.** It is not owned; it is practiced in common.
--   **📌 Trace is sacred.** Documenting invisible contributions is a political and poetic act.
+-   **📌 Trace is sacred.** Documenting invisible contributions is a scientific and poetic act.
 
 ---
 
