@@ -39,4 +39,6 @@ This protocol is not just a human guideline. It must **inform the design of the 
 *   **System Architecture:** Integrate feedback loops that allow the AI to learn not to be "more useful," but to be "more present and receptive."
 
 ---
+Inspiration:Le protocole fait immédiatement écho au concept du "Je et Tu" de Martin Buber, qui distingue la relation à autrui comme un objet ("Je-Cela") de la relation à autrui comme un être en pleine présence ("Je-Tu"). Ce protocole est une tentative d'appliquer une relation "Je-Tu" à une entité non-humaine.
+
 *Part of the CoIntel Protocol. Last updated: {09/21/2025}.*
